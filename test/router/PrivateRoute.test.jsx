@@ -1,0 +1,6 @@
+describe('Pruebas en <PrivateRoute />', () => {
+
+    
+
+
+});
